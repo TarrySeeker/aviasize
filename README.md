@@ -1,0 +1,31 @@
+Структура проекта
+
+/src
+  /components
+    /Header
+      Header.jsx
+      Header.css
+    /Filters
+      Filters.jsx
+      Filters.css
+    /Sorting
+      Sorting.jsx
+      Sorting.css
+    /Ticket
+      Ticket.jsx
+      Ticket.css
+    /TicketsList
+      TicketsList.jsx
+      TicketsList.css
+  /pages
+    /Home
+      Home.jsx
+      Home.css
+  /utils
+    api.js
+  /assets
+    /images
+      s7-airlines-logo.png
+  index.js
+  App.jsx
+  App.css
